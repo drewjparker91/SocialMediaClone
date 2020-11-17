@@ -34,11 +34,4 @@ export default Header;
 
 
 
- {/* <Button variant="outline-dark">Home</Button>{' '}
-      <Button variant="outline-dark">Notifications</Button>{' '}
-      <Button variant="outline-dark">Messages</Button>{' '}
-      <Form inline>
-        <FormControl type="text" placeholder="Search" className=" mr-sm-2" />
-        <Button type="submit">Submit</Button>
-      </Form>
-      <Button variant="outline-dark">Tweet</Button>{' '} */}
+
